@@ -8,4 +8,3 @@
 <a href="https://github.com/snowmobile2004/github-readme-stats">
   <img align="center" src="https://github-stats.snowlab.tech/api/top-langs/?username=snowmobile2004&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/snowmobile2004/github-readme-stats" />
 </a>
-[![Anurag's GitHub stats-Dark](https://github-stats.snowlab.tech/api?username=snowmobile2004&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/snowmobile2004/github-readme-stats#gh-dark-mode-only)
